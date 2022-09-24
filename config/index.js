@@ -6,12 +6,12 @@ export const USER_CONFIG = {
   // 公众号APP_ID
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_ID: "",
+  APP_ID: "wxe8f4fad1b25bc382",
   
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_SECRET: "",
+  APP_SECRET: "4e5edff6d14b9971db8ddcf79b575105",
   
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
@@ -62,7 +62,7 @@ export const USER_CONFIG = {
       // 想要发送的人的名字
       name: "小王同学",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "wxc1c3469161412680",
+      id: "oSp1U6HSxCWb3fLU5tvxoBAKQyrk",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "TmVwyy0OZjC3kpEGBJU-K2Ew360e-tTfgbHVGwmOq_U",
       // 所在省份
@@ -139,7 +139,7 @@ export const USER_CONFIG = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "wxe8f4fad1b25bc382",
+      id: "ogpU-5pm6qmaXGfTghrSG6plStOU",
     },
     // 你可以不断按格式往下增加
     // ...
